@@ -4,5 +4,3 @@
     echo "<h1>Password: </h1>";
     echo "<h1></table></h1>";
     ?>
-    echo "<h1> Mahanakorn </h1>";
-    ?>
